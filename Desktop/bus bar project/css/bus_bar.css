@@ -20,7 +20,7 @@ body {
   margin: auto;
   background-color: black;
   font-family: 'Amatic SC', cursive;
-  font-stretch: extra-expanded;
+  font-variant-ligatures: additional-ligatures;
   color:white;
 }
 
