@@ -1,5 +1,40 @@
 @import url("https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap");
 
+nav{
+    height: max-content;
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  li{
+    width: 100%;
+    min-width: max-content;
+    padding: 5px;
+    color: white;
+    list-style: none;
+  }
+  
+  ul{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+  }
+  
+
+.slogan {
+    display:flex;
+    margin-left: 10%;
+}
 
 :root {
   --d: 700ms;
@@ -25,7 +60,7 @@ body {
   display: grid;
   grid-gap: 1rem;
   padding: 1rem;
-  max-width: 1024px;
+  max-width: 100%;
   margin: 0 auto;
   font-family: var(--font-sans);
 }
@@ -56,7 +91,7 @@ body {
 }
 @media (min-width: 600px) {
   .card {
-    height: 350px;
+    height: 400px;
   }
 }
 .card:before {
