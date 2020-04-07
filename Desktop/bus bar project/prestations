@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<title>Le FliBUStier</title>
+</head>
+
+
+
+
+<body>
+	<header>
+		
+
+	</header>
+
+
+
+<section id="LeBusDeJour">
+<h3>Le Bus de Jour</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur blanditiis fugit, nostrum, eius error doloremque suscipit explicabo neque ex laboriosam nobis dolorem dolores inventore nemo eaque repellat quas fuga recusandae.</p>
+<p>Illo mollitia optio omnis sequi totam, quod laudantium, necessitatibus vel quibusdam dolore debitis ratione aliquid vero sint molestias molestiae magni nulla tempore beatae consequuntur laboriosam culpa architecto? Debitis, incidunt, commodi.</p>
+<p>Minus ducimus rerum sunt, pariatur? Dicta maxime laboriosam eos animi expedita ullam quaerat ducimus, nobis vero velit! Inventore ipsa officia beatae sed, blanditiis commodi ex, dignissimos, ab possimus voluptatem aspernatur!</p>
+<p>Unde commodi, excepturi tempora corrupti laboriosam atque optio alias amet dolor, nobis illum quasi asperiores corporis quod, saepe minus voluptates autem placeat reprehenderit, dolore aliquam natus voluptas. Labore, accusamus, ex.</p>
+<p>Pariatur ipsa beatae, reiciendis harum. Hic asperiores minima est architecto maxime earum fugiat atque facere possimus cupiditate placeat vel doloremque quasi distinctio voluptas, ducimus quos esse blanditiis dolore eos incidunt!</p>
+
+</section>
+
+<section id="LeBusDeNuit">
+<h3>Le Bus de Nuit</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur blanditiis fugit, nostrum, eius error doloremque suscipit explicabo neque ex laboriosam nobis dolorem dolores inventore nemo eaque repellat quas fuga recusandae.</p>
+<p>Illo mollitia optio omnis sequi totam, quod laudantium, necessitatibus vel quibusdam dolore debitis ratione aliquid vero sint molestias molestiae magni nulla tempore beatae consequuntur laboriosam culpa architecto? Debitis, incidunt, commodi.</p>
+<p>Minus ducimus rerum sunt, pariatur? Dicta maxime laboriosam eos animi expedita ullam quaerat ducimus, nobis vero velit! Inventore ipsa officia beatae sed, blanditiis commodi ex, dignissimos, ab possimus voluptatem aspernatur!</p>
+<p>Unde commodi, excepturi tempora corrupti laboriosam atque optio alias amet dolor, nobis illum quasi asperiores corporis quod, saepe minus voluptates autem placeat reprehenderit, dolore aliquam natus voluptas. Labore, accusamus, ex.</p>
+<p>Pariatur ipsa beatae, reiciendis harum. Hic asperiores minima est architecto maxime earum fugiat atque facere possimus cupiditate placeat vel doloremque quasi distinctio voluptas, ducimus quos esse blanditiis dolore eos incidunt!</p>
+
+</section>
+
+<section id="SoireeATheme">
+<h3>Les soirées à thèmes</h3>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur blanditiis fugit, nostrum, eius error doloremque suscipit explicabo neque ex laboriosam nobis dolorem dolores inventore nemo eaque repellat quas fuga recusandae.</p>
+<p>Illo mollitia optio omnis sequi totam, quod laudantium, necessitatibus vel quibusdam dolore debitis ratione aliquid vero sint molestias molestiae magni nulla tempore beatae consequuntur laboriosam culpa architecto? Debitis, incidunt, commodi.</p>
+<p>Minus ducimus rerum sunt, pariatur? Dicta maxime laboriosam eos animi expedita ullam quaerat ducimus, nobis vero velit! Inventore ipsa officia beatae sed, blanditiis commodi ex, dignissimos, ab possimus voluptatem aspernatur!</p>
+<p>Unde commodi, excepturi tempora corrupti laboriosam atque optio alias amet dolor, nobis illum quasi asperiores corporis quod, saepe minus voluptates autem placeat reprehenderit, dolore aliquam natus voluptas. Labore, accusamus, ex.</p>
+<p>Pariatur ipsa beatae, reiciendis harum. Hic asperiores minima est architecto maxime earum fugiat atque facere possimus cupiditate placeat vel doloremque quasi distinctio voluptas, ducimus quos esse blanditiis dolore eos incidunt!</p>
+
+</section>
+
+
+<section id="ReservationPrivee">
+<h3>Réservez votre bus!</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur blanditiis fugit, nostrum, eius error doloremque suscipit explicabo neque ex laboriosam nobis dolorem dolores inventore nemo eaque repellat quas fuga recusandae.</p>
+<p>Illo mollitia optio omnis sequi totam, quod laudantium, necessitatibus vel quibusdam dolore debitis ratione aliquid vero sint molestias molestiae magni nulla tempore beatae consequuntur laboriosam culpa architecto? Debitis, incidunt, commodi.</p>
+<p>Minus ducimus rerum sunt, pariatur? Dicta maxime laboriosam eos animi expedita ullam quaerat ducimus, nobis vero velit! Inventore ipsa officia beatae sed, blanditiis commodi ex, dignissimos, ab possimus voluptatem aspernatur!</p>
+<p>Unde commodi, excepturi tempora corrupti laboriosam atque optio alias amet dolor, nobis illum quasi asperiores corporis quod, saepe minus voluptates autem placeat reprehenderit, dolore aliquam natus voluptas. Labore, accusamus, ex.</p>
+<p>Pariatur ipsa beatae, reiciendis harum. Hic asperiores minima est architecto maxime earum fugiat atque facere possimus cupiditate placeat vel doloremque quasi distinctio voluptas, ducimus quos esse blanditiis dolore eos incidunt!</p>
+
+</section>
+
+<section id="Photos">
+<h3>Photos des soirées</h3>
+
+</section>
