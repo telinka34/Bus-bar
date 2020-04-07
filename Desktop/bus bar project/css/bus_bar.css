@@ -69,6 +69,10 @@ a{
   font-size: 2rem;
 }
 
+.slogan {
+    text-align : center;
+}
+
 .page-content {
   display: grid;
   grid-gap: 1rem;
