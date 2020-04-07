@@ -74,6 +74,10 @@ a{
   font-size: 2rem;
 }
 
+a:hover {
+      text-decoration: underline ;
+  }
+
 .slogan {
     text-align : center;
 }
