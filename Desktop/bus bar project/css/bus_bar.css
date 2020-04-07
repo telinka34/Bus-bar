@@ -123,10 +123,6 @@ a{
 }
 
 a:hover {
-      text-decoration: underline ;
-  }
-
-a:hover {
         -webkit-animation: text-blur-out .5s cubic-bezier(0.550, 0.085, 0.680, 0.530) ;
         animation: text-blur-out .5s cubic-bezier(0.550, 0.085, 0.680, 0.530) ;
 
