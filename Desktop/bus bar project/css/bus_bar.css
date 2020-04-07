@@ -82,6 +82,11 @@ a:hover {
     text-align : center;
 }
 
+footer img{
+    width:32px;
+    margin: 20px;;
+}
+
 .page-content {
   display: grid;
   grid-gap: 1rem;
