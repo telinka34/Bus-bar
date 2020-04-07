@@ -17,6 +17,17 @@ body {
   margin: auto;
 }
 
+header{
+  max-width: 1200px;
+  margin: auto;
+}
+
+#imageHeader{
+  width: 100%;
+  border:none;
+  display:block;
+}
+
 nav{
   height: max-content;
   max-width: 100%;
