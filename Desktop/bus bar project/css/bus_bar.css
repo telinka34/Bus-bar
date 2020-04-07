@@ -164,9 +164,15 @@ a:hover {
     text-align : center;
 }
 
+footer {
+  width:100%;
+  text-align: center;
+}
+
 footer img{
     width:32px;
-    margin: 20px;;
+    margin: 20px;
+    
 }
 
 .page-content {
