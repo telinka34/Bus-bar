@@ -39,6 +39,11 @@ header{
   color: white;
 }
 
+h2 {
+    margin-left:100px;
+    margin-right: 100px;
+}
+
 nav{
   height: max-content;
   max-width: 100%;
